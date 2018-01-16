@@ -6,5 +6,7 @@ class Song
     @title = title
   end
 
-  self.artist = Artist
+
 end
+
+self.artist = Artist

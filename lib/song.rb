@@ -8,5 +8,3 @@ class Song
 
 
 end
-
-self.artist = Artist
